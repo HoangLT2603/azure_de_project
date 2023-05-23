@@ -1,4 +1,5 @@
-pandas
-confluent_kafka
-faker
-azure-eventhub
+pandas==2.1.0
+confluent_kafka==2.1.1
+faker==18.9.0
+azure-eventhub==5.11.2
+pyarrow==12.0.0
